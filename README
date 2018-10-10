@@ -30,13 +30,21 @@ Step 5: Type "sudo chmod 777 ./RECOVERY.raw"
 Step 6: A RAW file will be saved on your desktop.
 Step 7: Close the terminal and proceed to the next steps.
 
-HOW TO USE RECOVERY TOOL:-
+HOW TO USE RECOVERY TOOL (GUI):-
 
 To run this tool, follow these steps:
 Step1: Inside this directory go to dist/recovery_tool/
 Step2: Double click the recovery_tool.exe file.
 Step3: Select the location of the disc image file of your memory card in the dialog box.
 Step4: Your JPEGs will recovered in the folder named recovered_jpegs at your desktop.
+
+
+HOW TO USE RECOVERY TOOL (CLI):-
+
+To run this tool, follow these steps:
+Step1: In terminal, type "./recover path/to/card/raw/image"
+Step2: Your JPEGs will recovered in the folder named recovered_jpegs at your desktop.
+
 
 FUTURE SCOPE OF DEVELOPMENT OF THE RECOVERY TOOL:-
 
