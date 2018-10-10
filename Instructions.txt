@@ -1,0 +1,11 @@
+Description: 
+
+GUI Based JPEG images recovery tool for Linux.
+
+Usage: ./recover path/to/raw_image_file
+
+Requirements:
+
+ 1. python-tk module
+
+To install it, in terminal type "sudo apt-get install python-tk" 
